@@ -1,4 +1,4 @@
-window.addEventListener("load", onLoad);
+window.onload = onLoad;
 
 function onLoad(){
 	loop();
