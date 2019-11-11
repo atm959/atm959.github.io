@@ -1,7 +1,6 @@
 window.onload = onLoad;
 
 function onLoad(){
-	document.getElementById("currentTime").innerHTML = "loop()";
 	loop();
 }
 
